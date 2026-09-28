@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 破解过程中的产物
+*.bcrack.json
+*_已解密.docx
+*_已解密.xlsx
+*_已解密.pptx
+*_已解密.pdf
+*_已解密.zip
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
